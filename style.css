@@ -47,7 +47,7 @@ h1:hover{
     justify-content: center;
     align-items: center;
     height: 660px;
-   background-color: white;
+   background-color: #fff;
 
 }
 #container{
@@ -66,7 +66,7 @@ h1:hover{
     align-items: center;
     flex-direction: column;
     padding: 30px;
-    background-color: white;
+    background-color: #fff;
     height: 500px;
 }
 form{
@@ -147,7 +147,7 @@ p{
         align-items: center;
         flex-direction: column;
         height: 600px;
-       background-color: white;
+       background-color: #fff;
     }
     img{
         width: 80px;
@@ -177,7 +177,7 @@ p{
         display: flex;
         justify-content: center;
         flex-direction: column;
-        background-color: white;
+        background-color: #fff;
         height: 200px;
         margin-top: 30px;
     }
